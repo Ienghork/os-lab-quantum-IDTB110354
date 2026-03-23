@@ -5,7 +5,7 @@
 
 ---
 ## Level 2
-![Level 2 Screenshot]()
+![Level 2 Screenshot](https://github.com/Ienghork/os-lab-quantum-IDTB110354/blob/df3194522b375f087f66aaff0460ec5af6a156c1/level2.png)
 
 ## Level 4
 ![Level 4 Screenshot]()
