@@ -14,7 +14,7 @@
 ![Level 5 Screenshot](https://github.com/Ienghork/os-lab-quantum-IDTB110354/blob/5cd1b5102f38f5a6503ed127546ff176898dc9ff/level4.png)
 
 ## Level 6
-![Level 6 Screenshot]()
+![Level 6 Screenshot](https://github.com/Ienghork/os-lab-quantum-IDTB110354/blob/aa6cc35c5b433ac64068e8c01a85e44e078f28fa/level6.png)
 
 ## Level 7
 ![Level 7 Screenshot]()
